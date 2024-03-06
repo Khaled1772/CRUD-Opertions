@@ -1,0 +1,15 @@
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\bin\Debug\net5.0\MVCProject1.BLL.deps.json
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\bin\Debug\net5.0\MVCProject1.BLL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\bin\Debug\net5.0\MVCProject1.BLL.pdb
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\bin\Debug\net5.0\MVCProject1.DAL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\bin\Debug\net5.0\MVCProject1.DAL.pdb
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.csproj.AssemblyReference.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.AssemblyInfoInputs.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.AssemblyInfo.cs
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.csproj.CoreCompileInputs.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.csproj.CopyComplete
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\refint\MVCProject1.BLL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\MVCProject1.BLL.pdb
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.BLL\obj\Debug\net5.0\ref\MVCProject1.BLL.dll

@@ -1,0 +1,15 @@
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\bin\Debug\net5.0\MVCProject1.DAL.deps.json
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\bin\Debug\net5.0\MVCProject1.DAL.runtimeconfig.json
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\bin\Debug\net5.0\MVCProject1.DAL.runtimeconfig.dev.json
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\bin\Debug\net5.0\MVCProject1.DAL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\bin\Debug\net5.0\MVCProject1.DAL.pdb
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.csproj.AssemblyReference.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.AssemblyInfoInputs.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.AssemblyInfo.cs
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.csproj.CoreCompileInputs.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\refint\MVCProject1.DAL.dll
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.pdb
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\MVCProject1.DAL.genruntimeconfig.cache
+D:\aliiaaAss1\Practicing\MVCProject1\MVCProject1.DAL\obj\Debug\net5.0\ref\MVCProject1.DAL.dll
